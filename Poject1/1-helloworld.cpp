@@ -4,5 +4,4 @@ int main()
 {
 	printf("hello\n");
 	printf("world");
-	//分两行输出
 }
